@@ -52,10 +52,10 @@ pip install -r requirements.txt
 ```
 ---
 
-##Train the model:
+###Train the model:
 python train_model.py
 
-##Predict for a new patient:
+###Predict for a new patient:
 python predict_new_patient.py
 
 ---
