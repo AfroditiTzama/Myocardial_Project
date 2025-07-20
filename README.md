@@ -21,6 +21,7 @@ myocardial_project/
 ## 🚀 **Description**
 
 ### 1. **train_model.py**
+
 - Loads and preprocesses the dataset
 - Handles missing values (median for numeric, mode for categorical)
 - Encodes categorical variables (One-Hot)
@@ -34,7 +35,7 @@ myocardial_project/
 
 ---
 
-### 2. predict.py
+### 2. **predict.py**
 
 - Loads the trained model, scaler, and feature names
 - Generates predictions for **new patients** based on their clinical data
