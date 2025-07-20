@@ -7,14 +7,14 @@ This project implements a machine learning pipeline to **predict possible compli
 ## 📂 **Project Structure**
 
 myocardial_project/
-├── train_model.py
-├── predict_new_patient.py
-├── myocardial_data.csv
-├── trained_model.pkl
-├── scaler.pkl
 ├── feature_names.csv
+├── firstry.py
+├── myocardial_data.csv
+├── predict.py
+├── predict_complications.py
+├── scaler.pkl
+├── trained_model.pkl
 └── README.md
-
 
 ---
 
@@ -34,7 +34,8 @@ myocardial_project/
 
 ---
 
-### 2. **predict_new_patient.py**
+### 2. predict.py
+
 - Loads the trained model, scaler, and feature names
 - Generates predictions for **new patients** based on their clinical data
 - Outputs:
@@ -56,7 +57,7 @@ pip install -r requirements.txt
 python train_model.py
 
 ###Predict for a new patient:
-python predict_new_patient.py
+python predict.py
 
 ---
 
