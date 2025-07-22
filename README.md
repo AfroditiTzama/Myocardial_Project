@@ -6,8 +6,8 @@ This project implements a machine learning pipeline to **predict possible compli
 
 ## 📂 **Project Structure**
 
-myocardial_project/
-├── notebook/
+myocardial_project/ /n
+├── notebook/ /n
 │   └── notebook.py
 ├── myocardial_data.csv
 ├── train_model.py
