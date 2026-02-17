@@ -1,7 +1,8 @@
-# 🫀 Myocardial Complications Prediction
+Myocardial Infarction Complications Prediction 
+An End-to-End Machine Learning Pipeline for Clinical Risk Assessment.
 
-This project implements a machine learning pipeline to **predict possible complications** in myocardial infarction patients using clinical and demographic data.
-
+📌 Project Overview
+This project focuses on predicting complications following myocardial infarction using a high-dimensional clinical dataset (124 features). The goal is to provide a predictive tool that supports clinical decision-making by identifying high-risk patients.
 ---
 
 ## 📂 **Project Structure**
