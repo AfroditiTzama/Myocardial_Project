@@ -89,6 +89,13 @@ Outputs the predicted class along with probabilities for all possible complicati
 
 ---
 
+## Model Insights
+![Feature Importance](feature_importance.png)
+*The model identified Myocardial Rupture (RAZRIV) and Heart Failure (ZSN) as the most critical predictors.*
+
+
+---
+
 ## ⚙️ **Usage**
 
 1. **Install dependencies**
